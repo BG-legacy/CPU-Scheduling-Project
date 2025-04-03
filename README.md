@@ -101,5 +101,4 @@ I employed several strategies to overcome these difficulties:
 This project was developed and tested on Ubuntu Linux.
 
 ## Author
-
-Banner ID: 909478671
+Bernard Ginn

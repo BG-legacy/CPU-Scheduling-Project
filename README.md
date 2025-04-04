@@ -1,5 +1,9 @@
 # CPU Scheduling Project
 
+![Screenshot 2025-04-03 at 8 03 44 PM](https://github.com/user-attachments/assets/b51aea45-a3df-4994-a810-a775a1343561)
+
+
+
 A simple C++ implementation of a Priority-based CPU Scheduling algorithm developed in Ubuntu Linux.
 
 ## Overview
